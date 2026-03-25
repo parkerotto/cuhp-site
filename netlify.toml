@@ -1,0 +1,5 @@
+[redirects]
+  from = "https://roaringtwentieschicago.com/*"
+  to = "https://chicagourbanheritage.com/:splat"
+  status = 301
+  force = true
